@@ -46,7 +46,6 @@ scripts/check-build.mjs    verificação de arquivos e assets
 test/site.test.mjs         testes automatizados com node:test
 public/favicon.svg         ícone local
 public/images/             imagens de arquitetura e interiores
-imagens-referencia/        referências visuais originais
 ```
 
 ## Publicar na Vercel
@@ -61,3 +60,4 @@ O servidor `server.mjs` serve apenas ao desenvolvimento local; a Vercel publica 
 ## Antes de publicar
 
 Conecte o formulário a um canal de atendimento próprio e revise os dados institucionais antes de publicar.
+
