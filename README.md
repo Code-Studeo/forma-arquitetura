@@ -61,4 +61,3 @@ O servidor `server.mjs` serve apenas ao desenvolvimento local; a Vercel publica 
 ## Antes de publicar
 
 Conecte o formulário a um canal de atendimento próprio e revise os dados institucionais antes de publicar.
-
